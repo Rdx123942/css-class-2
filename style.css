@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body{
+    background-color: #E8F0FE;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 4px blue;
+    border-image: url(./assets/angel-sanchez-RD56ee_kZUU-unsplash.jpg) 50/20px;
+    border: solid;
+ }
+
+p{
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-weight: bold; 
+    color: blue;
+
+}
